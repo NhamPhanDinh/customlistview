@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_grid">#FFFAD5</color>
+    <color name="background_weekend">#F1F1F1</color>
+</resources>
